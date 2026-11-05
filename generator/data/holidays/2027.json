@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "year": 2027,
+  "updated_at": "2026-11-05T00:00:00Z",
+  "source": {
+    "status": "user-provided",
+    "title": "用户提供的2027年放假安排",
+    "url": null
+  },
+  "holidays": [
+    {"id": "new-year", "name": "元旦", "start": "2027-01-01", "end": "2027-01-03", "workdays": []},
+    {"id": "spring-festival", "name": "春节", "start": "2027-02-05", "end": "2027-02-13", "workdays": ["2027-01-31", "2027-02-14"]},
+    {"id": "qingming", "name": "清明节", "start": "2027-04-03", "end": "2027-04-05", "workdays": []},
+    {"id": "labour-day", "name": "劳动节", "start": "2027-05-01", "end": "2027-05-05", "workdays": ["2027-05-08"]},
+    {"id": "dragon-boat", "name": "端午节", "start": "2027-06-09", "end": "2027-06-09", "workdays": []},
+    {"id": "mid-autumn", "name": "中秋节", "start": "2027-09-15", "end": "2027-09-15", "workdays": []},
+    {"id": "national-day", "name": "国庆节", "start": "2027-10-01", "end": "2027-10-07", "workdays": ["2027-09-26", "2027-10-09"]}
+  ]
+}

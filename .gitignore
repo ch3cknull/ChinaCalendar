@@ -1,0 +1,35 @@
+# Python environments, caches and packaging
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+coverage.xml
+*.egg-info/
+/build/
+/dist/
+
+# Local credentials; sample configuration can be committed
+.env
+.env.*
+!.env.example
+!.env.*.example
+
+# Local scratch files and editor/OS artifacts
+/work/
+*.log
+*.tmp
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Legacy duplicate outputs; publish and track the files in docs/ instead
+/*.ics
+/index.html

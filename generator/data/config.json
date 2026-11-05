@@ -1,0 +1,7 @@
+{
+  "schema_version": 1,
+  "years": "auto",
+  "updated_at": "2026-11-05T00:00:00Z",
+  "uid_namespace": "ch3cknull-ChinaCalendar",
+  "description": "放假调休以年度JSON记录及其来源为准；农历、节气和干支由lunar-python计算。"
+}
